@@ -1,11 +1,9 @@
-![](https://komarev.com/ghpvc/?username=nataliadiotto&color=006bed)
-
 ## About Me 🐈
 
 Tea-fueled English teacher by day, aspiring back-end developer by night, and a devoted cat lover 24/7. 🐱  
 Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱   
 
-![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg)
+[![Linkedin](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/) ![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg)
 
 
 ## Skills
@@ -41,6 +39,7 @@ Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱
 ![Draw.io](https://img.shields.io/badge/-Draw.io-333333?style=flat&logo=draw.io&logoColor=F28F3B)
 
 ## GitHub Stats 
+![](https://komarev.com/ghpvc/?username=nataliadiotto&color=006bed)
 
 <a href="https://github.com/nataliadiotto" title="Natália's GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliadiotto&theme=dracula&show_icons=true" />
