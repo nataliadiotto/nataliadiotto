@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=nataliadiotto&color=006bed)
 
-## About Me 🐱
+## About Me
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Analysis and Systems Development.
-- 🌱 Learning more about Java and SpringBoot.
+Tea-fueled English teacher by day, aspiring back-end developer by night, and a devoted cat lover 24/7.   
+Crafting the purr-fect blend of skills in Java and Spring Boot. 🐱💻☕🌱   
 
 ![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg)
 
