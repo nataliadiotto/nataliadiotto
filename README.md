@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diottonatalia@gmail.com)](mailto:diottonatalia@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/)
+[![Gmail Badge](https://img.shields.io/badge/-diottonatalia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diottonatalia@gmail.com)](mailto:diottonatalia@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nataliadiotto?label=follow&style=social)](https://github.com/nataliadiotto)
