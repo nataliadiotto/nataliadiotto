@@ -19,7 +19,10 @@
 
 **Utilidades**
 
+**APIs**
+
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![DogAPI](https://img.shields.io/badge/-DogAPI-333333?style=flat&logo=api&logoColor=white)
 
 **DevOps**
 
@@ -29,8 +32,9 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=000000)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
