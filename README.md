@@ -38,6 +38,7 @@
 ### Project Management 
 
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=000000)
 
 ### Design Tools 
 
@@ -48,6 +49,10 @@
 
 <a href="https://github.com/nataliadiotto" title="Natália's GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliadiotto&theme=dracula&show_icons=true" />
+</a>
+
+<a href="https://github.com/nataliadiotto" title="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliadiotto&theme=dracula&layout=compact" />
 </a>
 
 ## Where to Find Me 📍
