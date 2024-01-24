@@ -28,23 +28,15 @@ Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱
 
 ## Development Tools
 
-### IDEs
-
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-### Text Editors
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=000000)
 
-### Project Management 
+### Other Tools 
 
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=000000)
-
-### Design Tools 
-
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-333333?style=flat&logo=draw.io&logoColor=F28F3B)
 
