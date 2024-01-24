@@ -6,12 +6,16 @@
 - 🎓 Studying Analysis and Systems Development.
 - 🌱 Learning more about Java and SpringBoot.
 
+![Java Explorer](https://img.shields.io/badge/Java%20Explorer-2024-007396.svg)
+
+
 ## Skills
 
 ### Programming Languages
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffee&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 
 ### Frameworks
