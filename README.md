@@ -33,6 +33,7 @@ Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱
 
 ### Other Tools 
 
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=FF008C)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
