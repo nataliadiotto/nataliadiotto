@@ -50,6 +50,8 @@ Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliadiotto&theme=dracula&layout=compact" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nataliadiotto&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=820)](https://git.io/streak-stats)
+
 ## Where to Find Me 📍
 
 [![Linkedin](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/)
