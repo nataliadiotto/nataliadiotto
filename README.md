@@ -7,3 +7,10 @@
 ### About Me 🐈
 Tea-fueled English teacher by day, back-end developer by night, and a devoted cat lover 24/7. 🐱
 Crafting the purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱</p>
+
+### My Toolbox 🛠️ 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,maven,gradle,rabbitmq,mysql,postgres,nginx,idea,eclipse,py,postman,git&perline=7)](https://skillicons.dev)<br><br> 
+
+## Find me here📫
+[![Gmail Badge](https://img.shields.io/badge/-diottonatalia@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{diottonatalia@gmail.com})](mailto:{diottonatalia@gmail.com})
+[![Linkedin: diottonatalia](https://img.shields.io/badge/-diottonatalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diottonatalia/)](https://www.linkedin.com/in/diottonatalia/)
