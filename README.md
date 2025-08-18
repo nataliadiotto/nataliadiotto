@@ -1,6 +1,7 @@
 
 ## Hi there, I am Natália!
-<img align='right' width="400em" height="400em" alt="Gemini_Generated_Image_wi0fgxwi0fgxwi0f" src="https://github.com/user-attachments/assets/6809ed19-c48d-4853-b314-57471e2603d0" />
+<img align=right width="600" height="600" alt="Gemini_Generated_Image_7of6287of6287of6" src="https://github.com/user-attachments/assets/eb6ca552-6061-4193-bf17-544ae4ad9ca4" />
+
 
 ### About Me 🐈
 Tea-fueled English teacher by day, back-end developer  
