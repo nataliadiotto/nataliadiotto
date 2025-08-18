@@ -1,5 +1,7 @@
 
 ## Hi there, I am Natália!
+<img align='right' width="200em" height="200em" alt="Gemini_Generated_Image_wi0fgxwi0fgxwi0f" src="https://github.com/user-attachments/assets/6809ed19-c48d-4853-b314-57471e2603d0" />
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=nataliadiotto&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
