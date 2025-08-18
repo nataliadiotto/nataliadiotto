@@ -1,6 +1,6 @@
 
 ## Hi there, I am Natália!
-<img align=right width="600" height="600" alt="Gemini_Generated_Image_7of6287of6287of6" src="https://github.com/user-attachments/assets/eb6ca552-6061-4193-bf17-544ae4ad9ca4" />
+<img align=right width="600em" height="600em" alt="Gemini_Generated_Image_7of6287of6287of6" src="https://github.com/user-attachments/assets/eb6ca552-6061-4193-bf17-544ae4ad9ca4" />
 
 
 ### About Me 🐈
