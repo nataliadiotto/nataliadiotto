@@ -5,8 +5,10 @@
 
 ### About Me 🐈
 Tea-fueled English teacher by day, back-end developer  
-by night, and a devoted cat lover 24/7. 🐱 Crafting the  
-purr-fect blend of skills in Java and Spring Boot. 💻☕️🌱</p>
+by night, and a devoted cat lover 24/7. 🐱  
+I'm crafting the purr-fect blend of skills in Java and  
+Spring Boot to solve real-world problems and build robust  
+applications. 💻☕️🌱
 
 ### My Toolbox 🛠️ 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,maven,gradle,rabbitmq,mysql,postgres,nginx,idea,py,postman&perline=6)](https://skillicons.dev)<br><br> 
